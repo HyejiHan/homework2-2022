@@ -52,6 +52,8 @@ div {
   margin-left: 50px;
   border-bottom-width: 3px;
   border-left-width: 10px;
+  border-right: none;
+  border-top: none;
 }
 
 .blue {
@@ -60,6 +62,8 @@ div {
   margin-right: 50px;
   border-bottom-width: 3px;
   border-right-width: 10px;
+  border-top: none;
+  border-left: none;
 }
 
 .yellow {
@@ -68,6 +72,8 @@ div {
   margin-left: 50px;
   border-bottom-width: 3px;
   border-left-width: 10px;
+  border-top: none;
+  border-right: none;
 }
 
 .yellow h2 {
@@ -85,6 +91,8 @@ div {
   margin-right: 50px;
   border-right-width: 10px;
   border-bottom-width: 3px;
+  border-left: none;
+  border-top: none;
 }
 
 span {
